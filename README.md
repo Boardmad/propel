@@ -8,20 +8,20 @@ Experiments can be proposed by anyone within the organisation having identified 
 
 Discussions on the approach were held between the Account CTO and AGM to explain the operating model, governance, financial oversight and client impact and upon arriving at a satisfactory description of how the workstream would operate a sum of £250,000 was ring-fenced to facilitate the experiment pipeline.
 
-The additional benefit to DXC is the opportunity to get infront of a client and talking about their challenges in a very different manner. 
+The additional benefit to XXX is the opportunity to get infront of a client and talking about their challenges in a very different manner. 
 
 ## How does it work?
 
 ![Propel Innovation Funnel](img/Propel_funnel.png)
 
-The Propel pipeline follows a recognisable "Innovation Funnel" approach.  We start with an ideation funnel which may be formed out of a number of constructs. It can be a set of strategic challenges or objectives set by Senior leadership on the Account team or within the Client themselves. These can then be communicated and socialised within the DXC communiity for potential solutions which are ultimately pitched to the 'Propel Council' for approval to proceed to experiment.
+The Propel pipeline follows a recognisable "Innovation Funnel" approach.  We start with an ideation funnel which may be formed out of a number of constructs. It can be a set of strategic challenges or objectives set by Senior leadership on the Account team or within the Client themselves. These can then be communicated and socialised within the XXX communiity for potential solutions which are ultimately pitched to the 'Propel Council' for approval to proceed to experiment.
 Alternately a pipeline of experiments can be maintained on the Account/Sector/Region that have some basic informatino about the experiment, it's approach and likelihood of impact to a client base etc [See the Pipeline tracker for greater detail] 
 
 Next we move to Ideate & Qualify where a more detailed look at the experiment pipeline and it's likelty impact to the client and their issues. This series of experiments is reviewed on a regular basis by the Propel Council or nominees of that group for qualification to proceed to experiment.
 
 Following approval to proceed the experiment is actually carried out and progress reported back to the Council. Experiments should quickly be spotted where they're unlikely to succeed which will allow for fast kill/keep decisions. Failure should not be avoided and decisions to stop should be captured and understood without fear of negative impact.
 
-For those experiments that succeed in meeting their expected outcomes should next enter a phase of planning and design that quickly identifies the key value streams and opportunities for commercial impact to an Account/Industry or Region. This will rapidly provide visibility of the likely impact of investing in a further cycle of development and enabling value capture. The final phase is the enterprise hardening and 'readying for client contact' of any experimental solution and incorporation into the DXC offerings in order that it can be provided to the Clientbase and operated/deployed on their behalf.
+For those experiments that succeed in meeting their expected outcomes should next enter a phase of planning and design that quickly identifies the key value streams and opportunities for commercial impact to an Account/Industry or Region. This will rapidly provide visibility of the likely impact of investing in a further cycle of development and enabling value capture. The final phase is the enterprise hardening and 'readying for client contact' of any experimental solution and incorporation into the XXX offerings in order that it can be provided to the Clientbase and operated/deployed on their behalf.
 
 ## How we oversee the programme
 
@@ -73,10 +73,10 @@ The Council works under the following Terms of Reference.
 - For a more detailed woork plan, initiation checklist and tracking artefacts please see [this Jira](https://jira.csc.com/browse/CSS-286)
 
 ### Propel Council Membership
-- Scott Brown (CTO)
-- Gordon Hoff (AGM)
-- David Oldham (ASL)
-- David Rimmer (DGM)
-- Lee Tobutt (CFO)
+- (CTO)
+- (AGM)
+- (ASL)
+- (DGM)
+- (CFO)
 
 Bi-weekly meeting cadence to be confirmed based on demand. Can be instituted on an extraordinary basis but any request should be no more than 10 days from a formal sitting. Quorate with any 4 of the above attendees
